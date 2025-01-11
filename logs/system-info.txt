@@ -1,0 +1,5 @@
+System Information:
+- OS Type: Windows_NT
+- Total Memory: 15.69 GB
+- Free Memory: 7.37 GB
+- CPU Details: 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H, 12th Gen Intel(R) Core(TM) i5-12500H
